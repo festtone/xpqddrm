@@ -17,7 +17,7 @@ Este repositório está guardando o totem da exposição Quarto de Despejo, no R
 4. Pronto, agorá é só clicar no botão de apresentar e se divertir! 😁
 Obs: Caso der erro por falta de Fonte, realize os passos abaixo.
 
-Instalação-Fonte:
+📌Instalação-Fonte:
 1. Vá na aba releases, no lado direito da tela
 ![image](https://github.com/festtone/xpqddrm/assets/167247036/f9b99568-2286-4705-b236-3e707a7e7707)
 2. Na tela que abrir, na aba assets clique em noto_sans.zip
