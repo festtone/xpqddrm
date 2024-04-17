@@ -12,9 +12,10 @@ Este repositório está guardando o totem da exposição Quarto de Despejo, no R
 ![image](https://github.com/festtone/xpqddrm/assets/167247036/f9b99568-2286-4705-b236-3e707a7e7707)
 2. Na aba que abrir, selecione boxalready.pptx
 ![image](https://github.com/festtone/xpqddrm/assets/167247036/8d52ddcd-9e3d-49a5-b5ec-10b1c804e69f)
-3. Abra o arquivo baixado
+(Obs, a versão (V[numero])está sujeita a mudanças, mas os passos são os mesmos.)
+4. Abra o arquivo baixado
 ![image](https://github.com/festtone/xpqddrm/assets/167247036/f5dfeb26-3589-499d-a589-28e995de11ec)
-4. Pronto, agorá é só clicar no botão de apresentar e se divertir! 😁
+5. Pronto, agorá é só clicar no botão de apresentar e se divertir! 😁
 Obs: Caso der erro por falta de Fonte, realize os passos abaixo.
 
 📌Instalação-Fonte:
